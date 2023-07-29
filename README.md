@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 Hi, I'm Marina
 
-<!--
-**MarinGr/MarinGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a <strong>Frontend Developer</strong> passionate about building web applications.
 
-Here are some ideas to get you started:
+You can see all my work on my [personal website](https://maringr.github.io/portfolio/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻️ Tech Stack
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=Redux&logoColor=violet)
+![Vue](https://img.shields.io/badge/Vue-000?style=for-the-badge&logo=vue.js)
+![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=Css&logoColor=blue)
+![SASS](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![Styled components](https://img.shields.io/badge/STYLED_COMPONENTS-000?style=for-the-badge&logo=Styled-components)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
