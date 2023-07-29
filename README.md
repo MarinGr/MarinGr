@@ -2,7 +2,7 @@
 
 I am a <strong>Frontend Developer</strong> passionate about building web applications.
 
-You can see all my work on my [personal website](https://maringr.github.io/portfolio/).
+You can see all my work on my [portfolio website](https://maringr.github.io/portfolio/).
 
 
 ## 💻️ Tech Stack
