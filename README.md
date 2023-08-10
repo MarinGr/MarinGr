@@ -2,7 +2,7 @@
 
 I am a <strong>Frontend Developer</strong> passionate🔥 about transforming lines of code into responsive apps with interactive elements.
 
-You can see all my work on my [portfolio website](https://maringr.github.io/portfolio/).
+You can see my work on my [portfolio website](https://maringr.github.io/portfolio/).
 
 
 ## 💻️ Tech Stack
